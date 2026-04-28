@@ -1,0 +1,17 @@
+{
+  "name": "Blue Dragon Sparkling Water",
+  "short_name": "Blue Dragon",
+  "description": "Premium zero-calorie, sugar-free sparkling water in bold natural flavours.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#005fba",
+  "icons": [
+    {
+      "src": "assets/Brand%20Logo.png",
+      "sizes": "1536x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
